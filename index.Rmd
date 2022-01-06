@@ -1,11 +1,9 @@
 ---
-title: "My website"
+title: "Energiprojektet"
 output: 
   html_document:
     toc: FALSE
 ---
-
-
 
 
 **Welcome to my website!**
