@@ -1,0 +1,19 @@
+name: "Mywebsite"
+title: "Energiprojektet på NATE"
+type: inverse
+left:
+  - text: "Om projektet"
+    menu:
+      - text: "Läs mer om projektet"
+        href: ./omprojektet.html
+  - text: "Delprojekt"
+    menu:
+       - text: "Projekt del 1"
+         href: ./projekt1.html
+       - text: "Projekt del 2"
+         href: ./projekt2.html
+  - text: "Kontakt"
+    href: ./kontakt.html
+right:
+  - icon: fa-github fa-lg
+    href: https://github.com/githubusername/mywebsite
